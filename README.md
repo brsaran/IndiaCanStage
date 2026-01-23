@@ -99,4 +99,4 @@ Manuscript under review
 
 ## Acknowledgements
 
-Developed under the guidance of the **Indian Council of Medical Research – National Centre for Disease Informatics and Research (ICMR-NCDIR)** to strengthen cancer surveillance and digital oncology infrastructure in India.
+Developed under the guidance of the **Indian Council of Medical Research – National Centre for Disease Informatics and Research (ICMR-NCDIR)**, with framework guidance drawn from the **International Agency for Research on Cancer (IARC)** CanStaging initiative  (https://github.com/IARC-CSU/CanStaging),  to strengthen standardized cancer staging, registry data quality, and digital oncology infrastructure in low-resource settings.
