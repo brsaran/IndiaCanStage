@@ -43,8 +43,7 @@ The architecture ensures **transparency, traceability, and scalability**, enabli
 A fully functional web deployment of **India-Can-Stage** is currently available.
 
 **India-Can-Stage Web Application:**  
-(Insert web link here)
-
+Access the webversion here [India-can-Stage](http://103.154.184.110:8501/)
 The production system is centrally hosted on secure **ICMR-NCDIR servers** to ensure controlled access, centralized version management, and uniform updates.
 
 ---
